@@ -10,8 +10,7 @@ const nextConfig = {
         tls: false,
         dns: false,
         pg: false,
-        'pg-native': false,
-        sqlite3: false
+        'pg-native': false
       };
     }
     return config;
